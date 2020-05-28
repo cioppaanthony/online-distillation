@@ -1,0 +1,33 @@
+Copyright (c) 2020 holders: 
+
+- University of Liège (ULiège), Belgium.
+- Marc Van Droogenbroeck (M.VanDroogenbroeck@uliege.be), Professor at the University of Liège (ULiège).
+
+
+Code Contributing Author: 
+
+- Anthony Cioppa (anthony.cioppa@uliege.be), University of Liège (ULiège), Montefiore Institute, TELIM.
+
+Special thanks for their help with the code architecture to:
+
+- Adrien Deliège (adrien.deliege@uliege.be),  Montefiore Institute, TELIM.
+- Maxime Istasse (maxime.istasse@uclouvain.be), University of Louvain (ULouvain), Institute of Information and Communication Technologies, Electronics and Applied Mathematics (ICTM).
+
+
+Special thanks for their supervision to:
+
+- Christophe De Vleeschouwer, University of Louvain (ULouvain).
+- Marc Van Droogenbroeck, University of Liège (ULiège).
+
+
+To cite this repository, use the following bibtex entry:
+
+```bibtex
+@InProceedings{Cioppa2019ARTHuS,
+  author = {Cioppa, Anthony and Deliège, Adrien and Istasse, Maxime and De Vleeschouwer, Christophe and Van Droogenbroeck, Marc},
+  title = {ARTHuS: Adaptive Real-Time Human Segmentation in Sports through Online Distillation},
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  month = {June},
+  year = {2019}
+}
+```
